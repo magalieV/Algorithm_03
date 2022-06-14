@@ -1,5 +1,7 @@
 # Algorithm_03
 
+This is a Chung Ang University project.
+
 <hr>
 
 <h2> Model 1 </h2>
