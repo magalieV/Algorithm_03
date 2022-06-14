@@ -4,71 +4,80 @@
 
 <h2> Model 1 </h2>
 
-<h3> The model </h3>
+File: TensorFlow_mnist_model_1.ipynb
 
-<img width="910" alt="Screenshot 2022-06-12 at 15 18 16" src="https://user-images.githubusercontent.com/45533945/173327523-90b881c1-58a2-48ed-995e-108924c3e6d5.png">
+<h3> 1. The model </h3>
 
-<h3> Training and Training loss </h3>
+<img width="913" alt="Screenshot 2022-06-14 at 19 57 09" src="https://user-images.githubusercontent.com/45533945/173565484-242dc7a9-5792-4de8-a33f-aff424a49773.png">
+<img width="357" alt="Screenshot 2022-06-14 at 19 57 12" src="https://user-images.githubusercontent.com/45533945/173565492-ab8b01f9-dc97-437d-a3e2-b424c958e2f7.png">
 
-<img width="1097" alt="Screenshot 2022-06-12 at 15 19 07" src="https://user-images.githubusercontent.com/45533945/173327712-bc85c265-f1d1-4817-b0fd-f1a336e333f9.png">
+<h3> 2. Training and Training loss </h3>
 
-<h3> Test accuracy </h3>
+<img width="1078" alt="Screenshot 2022-06-14 at 19 57 18" src="https://user-images.githubusercontent.com/45533945/173565566-7494b1ec-a234-443a-a756-984d72247d7e.png">
 
-<img width="1103" alt="Screenshot 2022-06-12 at 15 19 16" src="https://user-images.githubusercontent.com/45533945/173327804-50398675-c4a3-4848-b487-237e275be4ae.png">
+<h3> 3. Test accuracy </h3>
 
-<h3> Image and corresponding probability that predicted right </h3>
+<img width="1085" alt="Screenshot 2022-06-14 at 19 57 24" src="https://user-images.githubusercontent.com/45533945/173565585-718842dd-ae60-42eb-ba55-9e271b7ac6d4.png">
 
-<img width="449" alt="Screenshot 2022-06-12 at 15 19 26" src="https://user-images.githubusercontent.com/45533945/173327838-b655a2a0-f513-4c4e-9062-6834a49e66d2.png">
+<h3> 4. Image and corresponding probability that predicted right </h3>
 
-<h3> Images and corresponding probability that predicted wrong </h3>
+<img width="759" alt="Screenshot 2022-06-14 at 19 57 29" src="https://user-images.githubusercontent.com/45533945/173565601-a1a2f37a-a2d2-4cad-ad68-f035d459d020.png">
 
-<img width="1010" alt="Screenshot 2022-06-12 at 15 19 49" src="https://user-images.githubusercontent.com/45533945/173327853-91bf1772-a08c-43be-91ad-b05c4140ce2e.png">
+<h3> 5. Images and corresponding probability that predicted wrong </h3>
+
+<img width="1079" alt="Screenshot 2022-06-14 at 19 57 35" src="https://user-images.githubusercontent.com/45533945/173565611-8a01f97c-a5a0-42ef-8517-d348af1922c4.png">
 
 <hr>
 
 <h2> Model 2 </h2>
 
-<h3> The model </h3>
+File: TensorFlow_mnist_model_2.ipynb
 
-<img width="924" alt="Screenshot 2022-06-12 at 15 20 12" src="https://user-images.githubusercontent.com/45533945/173328520-0eb71ab6-05d7-4c2d-a990-33804404d3c6.png">
+<h3> 1. The model </h3>
 
-<h3> Training and Training loss </h3>
+<img width="925" alt="Screenshot 2022-06-14 at 20 00 27" src="https://user-images.githubusercontent.com/45533945/173565701-c109984e-736f-407b-8b76-6fd69a8ac259.png">
+<img width="287" alt="Screenshot 2022-06-14 at 20 00 31" src="https://user-images.githubusercontent.com/45533945/173565711-3e9972d5-4532-4049-91fd-4bd7203d6957.png">
 
-<img width="909" alt="Screenshot 2022-06-12 at 15 22 34" src="https://user-images.githubusercontent.com/45533945/173328525-10d866c6-6749-469e-8e97-b7025c28c9a8.png">
+<h3> 2. Training and Training loss </h3>
 
-<h3> Test accuracy </h3>
+<img width="1081" alt="Screenshot 2022-06-14 at 20 00 39" src="https://user-images.githubusercontent.com/45533945/173565730-cfb6ab44-0370-4dcf-a6b6-d8e745209bd2.png">
 
-<img width="1079" alt="Screenshot 2022-06-12 at 15 22 44" src="https://user-images.githubusercontent.com/45533945/173328528-aa5c20a2-53d5-4e69-9cc3-aa91057f8241.png">
+<h3> 3. Test accuracy </h3>
 
-<h3> Image and corresponding probability that predicted right </h3>
+<img width="1086" alt="Screenshot 2022-06-14 at 20 00 49" src="https://user-images.githubusercontent.com/45533945/173565750-c9c0524d-5018-4538-ba72-273db5a5f523.png">
 
-<img width="437" alt="Screenshot 2022-06-12 at 15 22 55" src="https://user-images.githubusercontent.com/45533945/173328536-a3307fdb-388d-4987-8217-d21493f00c65.png">
+<h3> 4. Image and corresponding probability that predicted right </h3>
 
-<h3> Images and corresponding probability that predicted wrong </h3>
+<img width="779" alt="Screenshot 2022-06-14 at 20 01 17" src="https://user-images.githubusercontent.com/45533945/173565760-f827150c-0c3a-4e24-8d71-de56504263ec.png">
 
-<img width="992" alt="Screenshot 2022-06-12 at 15 23 14" src="https://user-images.githubusercontent.com/45533945/173328540-c3702b7e-b7e5-4a3a-a9cb-1ec18395badd.png">
+<h3> 5. Images and corresponding probability that predicted wrong </h3>
+
+<img width="1018" alt="Screenshot 2022-06-14 at 20 01 27" src="https://user-images.githubusercontent.com/45533945/173565780-48487805-a55b-48a5-91e9-5e6c7fa5e10e.png">
 
 <hr>
 
 <h2> Model 3 </h2>
 
-<h3> The model </h3>
+File: TensorFlow_mnist_model_3.ipynb
 
-<img width="917" alt="Screenshot 2022-06-12 at 15 23 34" src="https://user-images.githubusercontent.com/45533945/173328732-e14ee07c-e39d-481b-a4fe-cdcba9cd22e9.png">
+<h3> 1. The model </h3>
 
-<h3> Training and Training loss </h3>
+<img width="922" alt="Screenshot 2022-06-14 at 20 11 29" src="https://user-images.githubusercontent.com/45533945/173565828-564420a1-4398-4aa1-8192-9bd3090162db.png">
+<img width="307" alt="Screenshot 2022-06-14 at 20 11 39" src="https://user-images.githubusercontent.com/45533945/173565842-1139ca1d-f9e8-43d2-a7c2-f54d5986b4f2.png">
 
-<img width="927" alt="Screenshot 2022-06-12 at 15 27 06" src="https://user-images.githubusercontent.com/45533945/173328959-6cfae6f9-5544-496d-acb3-c75f6301d0df.png">
+<h3> 2. Training and Training loss </h3>
 
-<h3> Test accuracy </h3>
+<img width="1079" alt="Screenshot 2022-06-14 at 20 16 12" src="https://user-images.githubusercontent.com/45533945/173565852-ab8e1618-13f3-4cf3-8419-b175dcd0e121.png">
 
-<img width="1091" alt="Screenshot 2022-06-12 at 15 27 16" src="https://user-images.githubusercontent.com/45533945/173328990-53437884-417a-4129-a2b0-830eb25c2176.png">
+<h3> 3. Test accuracy </h3>
 
-<h3> Image and corresponding probability that predicted right </h3>
+<img width="1076" alt="Screenshot 2022-06-14 at 20 16 19" src="https://user-images.githubusercontent.com/45533945/173565896-485a5510-0dd0-4f44-a405-19b5339b3b44.png">
 
-<img width="463" alt="Screenshot 2022-06-12 at 15 27 34" src="https://user-images.githubusercontent.com/45533945/173329843-4d74d32a-e147-4b93-bf39-c268973cb985.png">
+<h3> 4. Image and corresponding probability that predicted right </h3>
 
-<h3> Images and corresponding probability that predicted wrong </h3>
+<img width="724" alt="Screenshot 2022-06-14 at 20 16 41" src="https://user-images.githubusercontent.com/45533945/173565903-18f002f8-970b-4644-b29a-75516bdbaf34.png">
 
-<img width="1008" alt="Screenshot 2022-06-12 at 15 28 49" src="https://user-images.githubusercontent.com/45533945/173329870-1ba7b28f-e4fe-42fb-8fa7-847330bae1af.png">
+<h3> 5. Images and corresponding probability that predicted wrong </h3>
+
+<img width="1065" alt="Screenshot 2022-06-14 at 20 16 48" src="https://user-images.githubusercontent.com/45533945/173565916-abcb436d-83b1-48e6-8887-fc798be9ad6e.png">
 
